@@ -30,4 +30,5 @@ I am excited to share that I have successfully completed Power BI project on HR 
 
 ◈ Designing a monthly HR dashboard with Power BI
 
-◈ Working with "NEW" card visual in Power BI.
+◈ Working with "NEW" card visual in Power BI.  
+https://github.com/AditiBhau/Power-BI/blob/main/HR.png
